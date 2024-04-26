@@ -1,0 +1,77 @@
+/* Write some CSS below */
+body {
+    text-align : center ; 
+    background-color : #cee1dd;
+    font-size : 18px ; 
+    font-family: "sedan", sans-serif; 
+    color: #39572d; 
+}
+
+h1 { 
+    color : #117a74; 
+    font-size : 32px; 
+}
+
+h2 {
+    color:  #117a74;
+    font-size : 32px; 
+}
+
+h1,h2 { 
+    font-family : "rubik", sans-serif; 
+    font-weight: 500;
+}
+
+.card-azure { 
+    background-color: azure;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px rgba(175, 6, 226, 0.545);
+    margin: 30px 0;
+    padding : 40px;
+    text-align: center;
+}
+
+.img-circle { 
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 0% 70%;
+}
+
+.container { 
+    width : 800px;
+    margin: 20px auto;
+}
+
+.button-green { 
+    color: white;
+    background-color: #117a74;
+    border-radius: 5px;
+    padding: 15px 25px;
+    font-family: "rubik", sans-serif;
+    font-weight: 600;
+}
+
+a:hover { 
+    background-color: #a1ba9a ;
+    color: white;
+}
+
+#introduction p { 
+    margin-bottom: 30px;
+}
+
+a { 
+    text-decoration: none; 
+}
+
+i {
+    font-size: 32px;
+}
+
+.card-azure div {
+    display: inline-block;
+    margin: 0 ;
+}
+
